@@ -20,3 +20,6 @@ https://github.com/TejeshReddy955/Banking-Analysis/raw/main/Banking.csv
 | **Environment**     | VS Code / JupyterLab / Anaconda                 
                           
 #Dash Board Screen shots
+(1)Home Page Screen Shot
+https://github.com/TejeshReddy955/Banking-Analysis/blob/main/Screenshot%20(94).png
+(2)Loan Analysis Screen Shot
