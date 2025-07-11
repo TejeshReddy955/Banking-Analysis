@@ -39,7 +39,7 @@ https://github.com/TejeshReddy955/Banking-Analysis/raw/main/Banking.csv
 (2)Getting Info
 
 (3)Categorical Analysis
-
+![Categorical Analysis (Jupyter)](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/categorical%20analysis.png)
 (4)Numerical Analysis
 
 (5)Correlation
