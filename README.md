@@ -35,7 +35,7 @@ https://github.com/TejeshReddy955/Banking-Analysis/raw/main/Banking.csv
 
 #EDA Analysis Screen shorts and code
 (1)Connection Work Bench
-
+![Power BI SQL Server Connection](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/connectionserver.png)
 (2)Getting Info
 
 (3)Categorical Analysis
