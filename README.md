@@ -8,3 +8,14 @@ Connected MySQL database to Jupyter Notebook to perform data cleaning and EDA us
 Loaded both Excel file and live SQL Server connection into Power BI for creating dynamic, visually-rich dashboards
 This project reflects how business analysts and data analysts operate in modern organizations using structured and connected tools.
 ###Data Set
+https://github.com/TejeshReddy955/Banking-Analysis/raw/main/Banking.csv
+#Tools used
+| Category            | Tools/Technologies                              |
+| ------------------- | ----------------------------------------------- |
+| **Database**        | MySQL Workbench                                 |
+| **Data Analysis**   | Python, Pandas, NumPy, Jupyter Notebook         |
+| **Visualization**   | Power BI, Matplotlib                  |
+| **Data Source**     | CSV (Excel file: `Banking.csv`)                 |
+| **SQL Connection**  | MySQL Connector, Power BI SQL Server connection |
+| **Environment**     | VS Code / JupyterLab / Anaconda                 
+                          
