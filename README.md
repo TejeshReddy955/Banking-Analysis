@@ -37,9 +37,10 @@ https://github.com/TejeshReddy955/Banking-Analysis/raw/main/Banking.csv
 (1)Connection Work Bench
 ![Power BI SQL Server Connection](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/connectionserver.png)
 (2)Getting Info
-![info Analysis (Jupyter)](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/info%20analysis.png)
+![info Analysis (Jupyter)](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/info.png)
 (3)Categorical Analysis
 ![Categorical Analysis (Jupyter)](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/categorical%20analysis.png)
 (4)Numerical Analysis
 ![Categorical Analysis (Jupyter)](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/numerical%20analysis.png)
 (5)Correlation
+![info Analysis (Jupyter)](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/correlation.png)
