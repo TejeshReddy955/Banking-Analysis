@@ -28,3 +28,5 @@ https://github.com/TejeshReddy955/Banking-Analysis/raw/main/Banking.csv
 ![Banking Dashboard](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/Screenshot%20(101).png)
 (4)Summary Page Screen Short
 ![Banking Dashboard](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/Screenshot%20(97).png)
+#EDA Analysis Screen shorts and code
+
