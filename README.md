@@ -23,3 +23,8 @@ https://github.com/TejeshReddy955/Banking-Analysis/raw/main/Banking.csv
 (1)Home Page Screen Shot
 ![Banking Dashboard](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/Screenshot%20(94).png)
 (2)Loan Analysis Screen Shot
+![Deposit Analysis Dashboard](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/Screenshot%20(96).png)
+(3)Deposite Analysis Screen short
+![Deposit Analysis Dashboard](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/Screenshot%20(96).png)
+(4)Summary Page Screen Short
+![Banking Dashboard](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/Screenshot%20(97).png)
