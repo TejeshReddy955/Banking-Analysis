@@ -44,3 +44,10 @@ https://github.com/TejeshReddy955/Banking-Analysis/raw/main/Banking.csv
 ![Categorical Analysis (Jupyter)](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/numerical%20analysis.png)
 (5)Correlation
 ![info Analysis (Jupyter)](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/correlation.png)
+
+###Conclusion:-
+This project demonstrates a complete real-world data analytics pipeline:
+From data collection and storage (MySQL),
+Through processing and analysis (Python & Jupyter),
+To reporting and visualization (Power BI).
+It reflects my ability to handle real-world data problems, communicate insights effectively, and use industry-standard tools — making this an ideal portfolio project for roles in Data Analysis, BI, or Business Analytics.
