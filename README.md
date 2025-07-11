@@ -34,4 +34,12 @@ https://github.com/TejeshReddy955/Banking-Analysis/raw/main/Banking.csv
 ![Banking Dashboard](https://raw.githubusercontent.com/TejeshReddy955/Banking-Analysis/main/Screenshot%20(99).png)
 
 #EDA Analysis Screen shorts and code
+(1)Connection Work Bench
 
+(2)Getting Info
+
+(3)Categorical Analysis
+
+(4)Numerical Analysis
+
+(5)Correlation
